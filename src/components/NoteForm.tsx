@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import { Input } from './ui/input';
 import { Button } from './ui/button';
 import { addDoc, collection, serverTimestamp } from 'firebase/firestore';
